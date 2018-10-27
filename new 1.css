@@ -1,0 +1,14 @@
+body {
+background color: gray;
+}
+
+h1 {
+text align: center;
+}
+h1{
+font family: helvetica;
+}
+img {
+	max-width:500px;
+	height: 100px;
+}
